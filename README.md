@@ -1,7 +1,7 @@
 # XGBRegressor ile İstanbul barajları için 1 yıllık ortalama doluluk tahmini (2023-2024 dönemi)
 ## (Zemin İstanbul - Kodluyoruz Bootcamp Projesi)
 ### (“Veri Bilimi Python Bootcamp” eğitimi 1 Nisan – 6 Mayıs)
-<img src="https://github.com/ayyildizkaan/baraj-doluluk-tahmini--time_series_forecast--/assets/82020011/8c4fe218-bcb1-4450-b708-45b8a19a7880" width="280" height="70">
+<img src="https://github.com/ayyildizkaan/baraj-doluluk-tahmini--time_series_forecast--/assets/82020011/8c4fe218-bcb1-4450-b708-45b8a19a7880" width="260" height="70">
 
 ## Kullanılan Veriler:
 * İstanbul'a Verilen Temiz Su Miktarları
