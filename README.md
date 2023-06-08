@@ -12,9 +12,11 @@
 * İstanbul Su Tüketim Miktarı
 * Günlük Ortalama Sıcaklık Verileri
 
-** kaynak: https://data.ibb.gov.tr/, https://www.iski.istanbul/web/tr-TR/baraj-doluluk
+kaynak: https://data.ibb.gov.tr/, https://www.iski.istanbul/web/tr-TR/baraj-doluluk
 
 ![tahmin3](https://github.com/ayyildizkaan/baraj-doluluk-tahmini--time_series_forecast--/assets/82020011/f1bf9a0e-823c-4549-84ea-d71269e04b82)
+
+![tahmin4](https://github.com/ayyildizkaan/baraj-doluluk-tahmini--time_series_forecast--/assets/82020011/edf04b41-c150-42a8-bf40-e5d984acd714)
 
 
 
